@@ -1,0 +1,21 @@
+html,
+body {
+	max-width: 0;
+	font-size: 100%;
+	background: #fff;
+	font-family: sans-serif;
+	scroll-behavior: smooth;
+	background-color: black;
+
+}
+header{
+position: absolute;
+z-index: 9;
+widows: 100%;
+}
+.toggle,
+{
+	display: none;
+
+}
+
